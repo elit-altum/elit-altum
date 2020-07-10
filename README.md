@@ -1,4 +1,4 @@
-## 👋 Hey I am Manan!
+## 👋 Hey! I am Manan.
 
 I am a full stack web developer, currently pursuing my undergrad in Computer Engineering from Delhi Technological University, India.
 
