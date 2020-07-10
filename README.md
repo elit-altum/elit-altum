@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hey I am Manan!
 
-<!--
-**elit-altum/elit-altum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack web developer, currently pursuing my undergrad in Computer Engineering from Delhi Technological University, India.
 
-Here are some ideas to get you started:
+I am passionate about good design and software. 
+<br/>
+I ❤️ open source. I sometimes play basketball 🏀, and can never say no to a good read 📚.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I have diverse experiences with fullstack projects, ranging from complex e-commerce solutions to personal portfolios.
+- 🌱 I am currently reading and learning more about competitive programming with C++. 
+- 💬 I am open to discussions on backend engineering, front-end development, open collaborations or just some plain good music.
+- 👀 I am looking for new opportunities and challenges on the web. Let's talk, if you'd like to work on something!
+
+<center>
+
+[Website](https://elit-altum.github.io/) • [Email](mailto:manan.sharma311@gmail.com) • [LinkedIn](https://www.linkedin.com/in/manan-sharma-8502b9199/)
+
+</center>
