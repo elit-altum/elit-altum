@@ -13,5 +13,5 @@ I ❤️ open source. I sometimes play basketball 🏀, and can never say no to 
 - 👀 I am looking for new opportunities and challenges on the web. Let's talk, if you'd like to work on something!
 
 
-[Website](https://elit-altum.github.io/) • [Email](mailto:manan.sharma311@gmail.com) • [LinkedIn](https://www.linkedin.com/in/manan-sharma-8502b9199/) • [Medium](https://medium.com/@manan.sharma311)
+[Website](https://elit-altum.github.io/) • [Email](mailto:manan.sharma311@gmail.com) • [LinkedIn](https://www.linkedin.com/in/manan-sharma-8502b9199/) • [Medium](https://manan-sharma311.medium.com/)
 
